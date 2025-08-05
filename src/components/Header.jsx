@@ -1,4 +1,4 @@
-import './Header.css';
+import '../index.css';
 import { Links } from 'react-router-dom';
 
 function Header() {
